@@ -13,4 +13,4 @@
 
 * 테이블 UML
   
-![Uploading 스크린샷 2024-01-06 오후 5.53.57.png…]()
+<img width="767" alt="스크린샷 2024-01-06 오후 5 53 57" src="https://github.com/success-project/wascontent/assets/37688894/683fe652-a2d3-48bf-801f-642e970c460f">
